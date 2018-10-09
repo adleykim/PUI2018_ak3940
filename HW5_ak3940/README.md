@@ -21,4 +21,4 @@ For Assignment 2 I worked with Keundeok Park. I found and analyzed the papers fo
 |:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
 | t-test | Infected leaves(Healty, TMV, PepMV, PVY, CMV) | Categorical | Polarization | Continuous | N/A | N/A | Does plant viruses affect the features of leaf surfaces? | Polarization do not differ from healthy and infected leaves | 0.05 | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152836
 
-![alt text](https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0152836.g005 "Main Plot")
+![alt text](https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0152836.g002 "Main Plot")
