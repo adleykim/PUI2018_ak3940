@@ -16,3 +16,9 @@ For Assignment 2 I worked with Keundeok Park. I found and analyzed the papers fo
 | ANOVA | Age (Elderly, Adult, Adolescent), Residence (Rural, Urban), Gender (Male, Female) | Categorical | Abundance of Cutaneous Bacterial Communities | Continuous | Abundence of Bacteria on Unused, Moistened Swab Head | Continuous | How do bacterial communities differ among urban and rural populations in Shanghai? | Bacterial communities do not differ among urban and rural populations in Shanghai | 0.001 | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0141842 |
 
 ![alt text](https://journals.plos.org/plosone/article/figure/image?size=large&id=10.1371/journal.pone.0141842.g004 "Main Plot")
+
+| **Statistical Analyses**	|  **IV(s)**  |  **IV type(s)** |  **DV(s)**  |  **DV type(s)**  |  **Control Var** | **Control Var type**  | **Question to be answered** | **_H0_** | **alpha** | **link to paper**| 
+|:----------:|:----------|:------------|:-------------|:-------------|:------------|:------------- |:------------------|:----:|:-------:|:-------|
+| t-test | Infected leaves(Healty, TMV, PepMV, PVY, CMV) | Categorical | Polarization | Continuous | N/A | N/A | Does plant viruses affect the features of leaf surfaces? | Polarization do not differ from healthy and infected leaves | 0.05 | https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0152836
+
+![alt text](https://journals.plos.org/plosone/article/figure/image?size=large&id=info:doi/10.1371/journal.pone.0152836.g002 "Main Plot")
