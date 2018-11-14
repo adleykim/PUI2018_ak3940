@@ -1,4 +1,4 @@
-![plot]('plot.png')
+![plot](plot.png)
 
 Reviewer: Adley Kim (ak3940)
 

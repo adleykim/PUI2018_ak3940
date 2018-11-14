@@ -1,4 +1,4 @@
-![plot]("Fire.png")
+![plot](Fire.png)
 
 Reviewer: Adley Kim (ak3940)
 
