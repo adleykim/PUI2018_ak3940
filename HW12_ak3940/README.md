@@ -1,0 +1,1 @@
+All assigment completed on my own.
